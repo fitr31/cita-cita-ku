@@ -2,8 +2,9 @@ RENCANA HIDUP
 
 menjadi orang yang sukses
 melakukan hal yg dapat membuat diri sendiri bangga
+   ^ melindungi orang orang pintar
 mengusahakan hal yang dapat membuat kebahagiaan
 menaklukan presiden dan anggota DPR
 memberantas koruptor
 menjadi superhero
-  * mencegah kejahatan
+  ^ mencegah kejahatan
